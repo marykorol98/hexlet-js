@@ -1,0 +1,13 @@
+{
+  "name": "my_first_project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "It's my first project and I don't know what I'm doing)))",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
